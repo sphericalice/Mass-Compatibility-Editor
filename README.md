@@ -37,8 +37,8 @@ Eventually the tool may be updated to support these things being changed, probab
 The tool automatically makes changes: there's no save button. Make backups before using it!
 
 1. Load ROM using:
-	> File...
-	> Load ROM
+	- File...
+	- Load ROM
    or Ctrl + O.
 
 2. To mass-remove compatibility, change the TM #: field to the TM# you want to change. Enter the range of Pokémon to remove compatibility from in the relevant fields. Click 'Remove compatibility'.
