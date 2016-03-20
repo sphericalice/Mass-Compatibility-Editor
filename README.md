@@ -39,14 +39,19 @@ The tool automatically makes changes: there's no save button. Make backups befor
 1. Load ROM using:
 	- File...
 	- Load ROM
-   or Ctrl + O.
+
+or Ctrl + O.
 
 2. To mass-remove compatibility, change the TM #: field to the TM# you want to change. Enter the range of Pokémon to remove compatibility from in the relevant fields. Click 'Remove compatibility'.
 3. Click Editor Mode and select the relevant mode to swap between TM, HM and Move Tutor editing.
 4. To mass-add compatibility, create a text file. The file should be a list of decimal Pokémon species numbers, separated by newlines.
+
 1
+
 152
+
 277
+
 The above would represent TM compatibility for Bulbasaur, Chikorita and Treecko (in an unedited ROM).
 Note that it is NOT the Pokédex number (Treecko's Pokédex number is 252, but its species number is 277).
 Load this text file and click Add compatibility.
