@@ -2,7 +2,7 @@
 by Spherical Ice
 http://www.pokecommunity.com/showthread.php?t=365264
 
-Requites .NET 4.0.
+Requites .NET 4.0. Compiled in Visual Studio 2013.
 
 This tool allows the user to quickly edit the TM and HM compatibility of large amounts of Pokémon in a GBA Pokémon ROM.
 Compatible with BPRE and BPEE ROMs.
