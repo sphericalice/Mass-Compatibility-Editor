@@ -58,5 +58,9 @@ Load this text file and click Add compatibility.
 
 # Special thanks to:
 Lostelle
+
 karatekid552
-stackoverflow (see source code for more information)
+
+stackoverflow users
+
+diegoisawesome
